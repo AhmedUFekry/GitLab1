@@ -3,4 +3,5 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
     }
 int ahmedFekryafdg;
+int ahmedFekryAbd;
 }
